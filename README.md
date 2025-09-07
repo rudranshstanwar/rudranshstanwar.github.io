@@ -1,7 +1,7 @@
 # 🌐 Rudransh Tanwar — Portfolio Website  
 
 Welcome to my personal portfolio! 🚀  
-This site is hosted with **GitHub Pages** at 👉 [rudranshtanwar.github.io](https://rudranshtanwar.github.io)  
+This site is hosted with **GitHub Pages** at 👉 [rudranshtanwar.github.io](https://rudranshtanwar.me)  
 
 ---
 
